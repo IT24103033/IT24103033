@@ -25,8 +25,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT24103033&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT24103033&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IT24103033&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT24103033&layout=compact&theme=radical" />
 </p>
 
 ## 📌 Current Focus
@@ -35,8 +35,13 @@
 - Growing as a developer
 
 ## 📫 Connect With Me
-<p>
-  <a href="https://github.com/IT24103033">GitHub</a>
+<p align="left">
+  <a href="https://github.com/IT24103033" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/sujana-dinuwara-bbb6b0314/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 
