@@ -9,7 +9,7 @@
 
 ## 🙋 About Me
 - 🎓 Student at **SLIIT**
-- 🌱 Currently learning **Java, React, Spring Boot**
+- 🌱 Currently learning **Frameworks, React, Next.js, DevOps**
 - 💻 Interested in **software development and tech**
 - 🚀 Working on improving my coding skills step by step
 
