@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sujana Dinuwara</h1>
-<h3 align="center">Software Engineering Student | Beginner Developer | Learning one line of code at a time</h3>
+<h3 align="center">Software Engineering Student | Full-Stack Developer | React • Next.js • Spring Boot</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!;Software+Engineering+Student;Java+%7C+React+%7C+Spring+Boot;Always+learning+new+things" alt="Typing SVG" />
@@ -9,30 +9,113 @@
 
 ## 🙋 About Me
 - 🎓 Student at **SLIIT**
-- 🌱 Currently learning **Frameworks, React, Next.js, DevOps**
 - 💻 Interested in **software development and tech**
 - 🚀 Working on improving my coding skills step by step
+- 🌱 Currently learning - Next.js, DevOps, Docker, AWS, System Design
 
-## 🛠️ Tech Stack
+
+# 🚀 Featured Projects
+
+## 📱 ScanMark (Module Management)
+
+Dynamic QR Code Attendance Management System
+
+**Tech Stack**
+
+`React` `Spring Boot` `MongoDB`
+
+⭐ Features
+
+- Dynamic QR Attendance
+
+- Lecturer Management
+
+- Module Management
+
+- CSV Import & Export
+
+- REST API
+
+---
+
+## 💼 HireNear (Bidding & Proposal System)
+
+Job recruitment platform connecting employers and candidates.
+
+**Tech Stack**
+
+`React Native` `Node.js` `Express.js` `MongoDB`
+
+---
+
+## 🌐 Personal Portfolio
+🔗 https://sujanadinuwara.vercel.app
+
+Modern developer portfolio built using
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=java,ts,js,html,css" />
+
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IT24103033&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT24103033&layout=compact&theme=radical" />
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
 </p>
 
-## 📌 Current Focus
-- Building university projects
-- Learning full-stack development
-- Growing as a developer
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+
+</p>
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,intellij,docker,figma" />
+
+</p>
+
+---
+
+
+# 🎯 2026 Goals
+
+✅ Land a Software Engineering Internship
+
+🚀 Build impactful Full-Stack Applications
+
+☁️ Learn Cloud & DevOps
+
+📚 Contribute to Open Source
+
+🏆 Become a better engineer every day
+
+---
+> 💡 "Code. Learn. Build. Repeat."
 
 ## 📫 Connect With Me
 <p align="left">
@@ -42,6 +125,9 @@
   <a href="https://www.linkedin.com/in/sujana-dinuwara-bbb6b0314/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://sujanadinuwara.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
 
 
