@@ -49,7 +49,7 @@ Job recruitment platform connecting employers and candidates.
 ---
 
 ## 🌐 Personal Portfolio
-🔗 https://sujanadinuwara.vercel.app
+🔗 https://www.sujanadinuwara.me
 
 Modern developer portfolio built using
 
